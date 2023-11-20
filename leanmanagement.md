@@ -33,3 +33,9 @@
 - Unternehmersicht vs. Lean Management
 - Anforderungen des Kunden zeigen Anforderungen an das Unternehmen
 - Ziel: Erreichen von 100% Kundenzufriedenheit bei möglichst geringen Kosten
+
+---
+
+## Verschwendung - 無駄
+
+![](Verschwendung1.png)

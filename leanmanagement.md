@@ -43,7 +43,11 @@
 
 ---
 
-## Kontinuierliche Verbesserung
+## Kontinuierliche Verbesserung - 改善
+
+---
+
+## PDCA-Zyklus
 
 ---
 
@@ -74,3 +78,5 @@
 - Hansei: Reflexion
 
 ---
+
+## Lean Administration

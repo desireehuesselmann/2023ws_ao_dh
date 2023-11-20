@@ -38,4 +38,10 @@
 
 ## Verschwendung - 無駄
 
-![](Verschwendung1.png)
+## ![](Verschwendung1.png)
+
+---
+
+## Kontinuierliche Verbesserung
+
+---

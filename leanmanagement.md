@@ -62,3 +62,15 @@
 - Keine Vorgabe von Lösungen und Antworten --> Coaching
 - Befähigung der Mitarbeiter für mehr Kreativität und Innovation
   --> **Mitarbeiterorientierung**
+
+---
+
+## Fehlerkultur
+
+- Positive Fehlerkultur
+- Suchen nach Lösungen, statt Schuldigen
+- Schuld im Prozess oder bei den Standards
+- Fehler als Möglichkeit zur Verbesserung
+- Hansei: Reflexion
+
+---

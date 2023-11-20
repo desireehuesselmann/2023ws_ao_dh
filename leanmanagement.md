@@ -51,3 +51,13 @@
 - ganzheitlicher Ansatz
 - Lean Thinking: Denkweisen statt Methoden
   z.B. Lean Administration, Lean Product Design, Lean Development etc.
+
+---
+
+## Führung
+
+- Lean Leadership: Mensch und seine Kompetenzen im Mittelpunkt
+- Verantwortungsübergabe an die Mitarbeiter
+- Keine Vorgabe von Lösungen und Antworten --> Coaching
+- Befähigung der Mitarbeiter für mehr Kreativität und Innovation
+  --> **Mitarbeiterorientierung**

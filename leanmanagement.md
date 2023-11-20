@@ -45,3 +45,9 @@
 ## Kontinuierliche Verbesserung
 
 ---
+
+## Von der Produktion zur Unternehmensphilosophie
+
+- ganzheitlicher Ansatz
+- Lean Thinking: Denkweisen statt Methoden
+  z.B. Lean Administration, Lean Product Design, Lean Development etc.

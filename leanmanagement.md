@@ -89,6 +89,17 @@
 
 ---
 
+## Lean Administration
+
+#### 8 Arten der Verschwendung
+
+1. Überinformation & Überproduktion
+2. Wartezeit & Suchen
+3. Fehler & Nacharbeit
+4. Informationstransfer
+
+---
+
 ## Quellen 1
 
 ### Bilder

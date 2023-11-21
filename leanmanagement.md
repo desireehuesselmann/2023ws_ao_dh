@@ -11,7 +11,6 @@
 5. PDCA-Zyklus
 6. Führung
 7. Fehlerkultur
-8. Nachhaltigkeit
 
 ---
 

@@ -46,6 +46,12 @@
 
 ## Kontinuierliche Verbesserung 改善
 
+- Kai (Veränderung) + Zen (zum Guten)
+  *permanente Verbesserung von Prozessen und Produkten
+  *DE: Kontinuierlicher Verbesserungsprozess (KVB)
+  *Keine Einführung von Vorschlagwesen--> Mitarbeitermotivation
+  *Verbesserungen entlasten Mitarbeier und minimieren Verschwendung
+
 ---
 
 ## PDCA-Zyklus

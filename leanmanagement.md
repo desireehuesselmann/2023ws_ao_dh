@@ -93,7 +93,7 @@
 
 ## Lean Administration
 
-#### 8 Arten der Verschwendung
+#### Verschwendungsarten im indirekten Bereich
 
 1. Überinformation & Überproduktion
 2. Wartezeit & Suchen

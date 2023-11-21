@@ -4,13 +4,14 @@
 
 ## Agenda
 
-1. Übersicht
-2. Kundenorientierung
+1. Einleitung
+2. Der Kunde
 3. Verschwendung
 4. Kontinuierliche Verbesserung
-5. Führung
-6. Fehlerkultur
-7. Nachhaltigkeit
+5. PDCA-Zyklus
+6. Führung
+7. Fehlerkultur
+8. Nachhaltigkeit
 
 ---
 
@@ -37,13 +38,13 @@
 
 ---
 
-## Verschwendung - 無駄
+## Verschwendung 無駄
 
 ## ![](Verschwendung1.png)
 
 ---
 
-## Kontinuierliche Verbesserung - 改善
+## Kontinuierliche Verbesserung 改善
 
 ---
 

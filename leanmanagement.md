@@ -11,6 +11,8 @@
 5. PDCA-Zyklus
 6. Führung
 7. Fehlerkultur
+8. Lean Administration
+9. Quellen
 
 ---
 

@@ -74,7 +74,7 @@
 - Verantwortungsübergabe an die Mitarbeiter
 - Keine Vorgabe von Lösungen und Antworten --> Coaching
 - Befähigung der Mitarbeiter für mehr Kreativität und Innovation
-  --> **Mitarbeiterorientierung**
+  > **Mitarbeiterorientierung**
 
 ---
 

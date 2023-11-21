@@ -86,3 +86,16 @@
 - Schuld im Prozess oder bei den Standards
 - Fehler als Möglichkeit zur Verbesserung
 - Hansei: Reflexion
+
+---
+
+## Quellen
+
+### Bilder
+
+[https://www.capterra.com.de/blog/531/lean-project-management-leitfaden]
+
+### Inhalt
+
+BERTAGNOLLI, Frank, 2020. Lean Management: Einführung und Vertiefung in die japanische Management-Philosophie [online]. 2nd ed. 2020. Wiesbaden: Springer Fachmedien Wiesbaden, Imprint: Springer Gabler.
+HELMOLD, Marc, 2023. Lean Management und Kaizen: Grundlagen aus Fällen und Beispielen in Operations und Supply Chain Management [online]. 1st ed. 2023. Cham: Springer International Publishing

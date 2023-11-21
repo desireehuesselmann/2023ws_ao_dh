@@ -17,9 +17,9 @@
 ## Einleitung
 
 - Unternehmensphilosophie mit Ursprung in der Produktion
-- Verschwendungsfreie Prozesse in der Produktion
-- Entwicklung zu "Lean" als Gedanke
-- Verankerung von Lean in der Strategie & Kultur
+- Verschwendungsfreie Prozesse und Ressourceneffizienz
+- Entwicklung zu "Lean" als Denkweise
+- Verankerung von Lean in der Strategie & Unternehmenskultur
 - Starke Verpflechtung mit der japanischen Kultur
 - Effizienz und Effektivität verbinden!
 

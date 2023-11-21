@@ -52,8 +52,6 @@
 - Keine Einführung von Vorschlagwesen--> Mitarbeitermotivation
 - Verbesserungen entlasten Mitarbeier und minimieren Verschwendung
 
-## ![](Lean2.png)
-
 ---
 
 ## PDCA-Zyklus

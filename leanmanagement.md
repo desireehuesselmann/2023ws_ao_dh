@@ -47,7 +47,7 @@
 ## Kontinuierliche Verbesserung 改善
 
 - Kai (Veränderung) + Zen (zum Guten)
-- permanente Verbesserung von Prozessen und Produkten
+- Permanente Verbesserung von Prozessen und Produkten
 - DE: Kontinuierlicher Verbesserungsprozess (KVB)
 - Keine Einführung von Vorschlagwesen--> Mitarbeitermotivation
 - Verbesserungen entlasten Mitarbeier und minimieren Verschwendung
@@ -62,7 +62,7 @@
 
 ## Von der Produktion zur Unternehmensphilosophie
 
-- ganzheitlicher Ansatz
+- Ganzheitlicher Ansatz
 - Lean Thinking: Denkweisen statt Methoden
   z.B. Lean Administration, Lean Product Design, Lean Development etc.
 
@@ -86,7 +86,3 @@
 - Schuld im Prozess oder bei den Standards
 - Fehler als Möglichkeit zur Verbesserung
 - Hansei: Reflexion
-
----
-
-## Lean Administration

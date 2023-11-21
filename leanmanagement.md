@@ -1,4 +1,4 @@
-# Lean Management
+## ![](LEAN1.jpg)
 
 ---
 

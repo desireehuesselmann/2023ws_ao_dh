@@ -29,7 +29,7 @@
 
 - Wert des Produkts entsteht durch den Kunden
 - Definition des Produktwertes aus Kundensicht
-- Vorteile statt Produkte verkaufen
+- Verkauf von Vorteilen statt Produkten
 - Unternehmersicht vs. Lean Management
 - Anforderungen des Kunden zeigen Anforderungen an das Unternehmen
 - Ziel: Erreichen von 100% Kundenzufriedenheit bei möglichst geringen Kosten
@@ -50,7 +50,7 @@
 - Permanente Verbesserung von Prozessen und Produkten
 - DE: Kontinuierlicher Verbesserungsprozess (KVB)
 - Keine Einführung von Vorschlagwesen--> Mitarbeitermotivation
-- Verbesserungen entlasten Mitarbeier und minimieren Verschwendung
+- Verbesserungen entlasten Mitarbeiter und minimieren Verschwendung
 
 ---
 
@@ -71,7 +71,7 @@
 ## Führung
 
 - Lean Leadership: Mensch und seine Kompetenzen im Mittelpunkt
-- Verantwortungsübergabe an die Mitarbeiter
+- Übergabe von Verantwortung an Mitarbeiter
 - Keine Vorgabe von Lösungen und Antworten --> Coaching
 - Befähigung der Mitarbeiter für mehr Kreativität und Innovation
 
@@ -82,7 +82,7 @@
 ## Fehlerkultur
 
 - Positive Fehlerkultur
-- Suchen nach Lösungen, statt Schuldigen
+- Suche nach Lösungen, statt Schuldigen
 - Schuld im Prozess oder bei den Standards
 - Fehler als Möglichkeit zur Verbesserung
 - Hansei: Reflexion

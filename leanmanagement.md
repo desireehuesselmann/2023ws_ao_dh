@@ -49,6 +49,8 @@
 
 ## PDCA-Zyklus
 
+## ![](Konzeptgrafiken.png)
+
 ---
 
 ## Von der Produktion zur Unternehmensphilosophie

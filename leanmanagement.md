@@ -65,7 +65,8 @@
 
 - Ganzheitlicher Ansatz
 - Lean Thinking: Denkweisen statt Methoden
-  z.B. Lean Administration, Lean Product Design, Lean Development etc.
+
+* Lean Administration, Lean Product Design, Lean Development etc.
 
 ---
 

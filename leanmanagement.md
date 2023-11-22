@@ -50,7 +50,7 @@
 
 - Kai (Veränderung) + Zen (zum Guten)
 - Permanente Verbesserung von Prozessen und Produkten
-- DE: Kontinuierlicher Verbesserungsprozess (KVB)
+- DE: Kontinuierlicher Verbesserungsprozess (KVP)
 - Keine Einführung von Vorschlagwesen--> Mitarbeitermotivation
 - Verbesserungen entlasten Mitarbeiter und minimieren Verschwendung
 
